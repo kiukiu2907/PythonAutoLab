@@ -1,0 +1,5 @@
+{
+  "name": "Python Automation Lab (PAL)",
+  "description": "A web-based simulation platform teaching Python programming via agricultural drone automation using React, Tailwind, and Gemini AI.",
+  "requestFramePermissions": []
+}
